@@ -7,4 +7,5 @@
 
     <color name="btnPrimary">@color/colorPrimary</color>
     <color name="btnPressed">@color/colorPrimaryDark</color>
+    <color name="colorImportant">@android:color/holo_purple</color>
 </resources>

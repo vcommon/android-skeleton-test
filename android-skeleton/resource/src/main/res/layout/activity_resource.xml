@@ -41,6 +41,6 @@
         <ImageView
             android:layout_width="100dp"
             android:layout_height="50dp"
-            android:background="@drawable/layer_icon_left"></ImageView>
+            android:background="@drawable/layer_icon_right"></ImageView>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

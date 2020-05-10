@@ -12,8 +12,9 @@
         </shape>
     </item>
 
+    <!-- gravity 在某些设备上不工作-->
     <item android:width="25dp"
-        android:height="25dp" android:gravity="left"
+        android:height="25dp" android:gravity="right"
         android:drawable="@mipmap/ic_launcher"></item>
 
 
