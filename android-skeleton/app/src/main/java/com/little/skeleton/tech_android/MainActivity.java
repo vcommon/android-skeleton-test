@@ -1,10 +1,10 @@
-package com.diyerland.tech.tech_android;
+package com.little.skeleton.tech_android;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.diyerland.StringTest;
+import com.little.StringTest;
 
 public class MainActivity extends Activity {
 

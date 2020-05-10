@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "23.0.1"
+    compileSdkVersion 29
+    buildToolsVersion '29.0.2'
 
     defaultConfig {
-        applicationId "com.diyerland.tech.tech_android"
+        applicationId "com.little.skeleton"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

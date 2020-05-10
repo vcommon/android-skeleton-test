@@ -1,4 +1,4 @@
-package com.diyerland;
+package com.little;
 
 /**
  * 单件模式

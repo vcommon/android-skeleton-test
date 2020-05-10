@@ -1,4 +1,4 @@
-package com.diyerland.tech.tech_android;
+package com.little.skeleton.tech_android;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
